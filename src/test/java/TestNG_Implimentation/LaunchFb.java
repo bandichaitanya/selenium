@@ -10,7 +10,7 @@ import org.testng.annotations.Test;
 
 
 public class LaunchFb {
-	//This is Lunch Facebook progm
+	//This is Launch Facebook progm
 	@Parameters("browser")
 	@Test
 	public void fbTest(String BROWSER) throws InterruptedException
